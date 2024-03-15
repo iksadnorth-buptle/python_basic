@@ -1,0 +1,8 @@
+Lib/**
+pkg/**
+resource/**
+Scripts/**
+
+pip-selfcheck.json
+python_basic.code-workspace
+pyvenv.cfg
